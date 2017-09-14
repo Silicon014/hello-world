@@ -1,3 +1,2 @@
-# hello-world
-school project
+# hello, world
 just some homework projects
